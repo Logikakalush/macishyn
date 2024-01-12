@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(19, 189, 33);color: ghostwhite;
+    text-align: center;
+    font-size: 30px;
+}
+h1{
+    font-size: 55px;
+    color: gold;
+}
+a{
+    color: darkred;
+}
+h2{
+    background-color: blue;
+}
+.my{
+    background-color: black;
+}
+img{
+    border-radius: 1000px;
+}
+.no{
+    border-radius: 30px;
+}
+header{
+    background-color: blueviolet;
+    margin: 100px;
+    border-radius: 600px;
+    padding: 20px;
+}
